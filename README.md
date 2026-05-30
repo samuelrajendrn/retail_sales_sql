@@ -152,6 +152,3 @@ Through this project, I practiced:
 ## Author
 
 Samuel Rajendran
-
-GitHub: https://github.com/yourusername
-
