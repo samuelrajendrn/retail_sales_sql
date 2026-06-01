@@ -129,6 +129,37 @@ Key questions answered:
 
 ---
 
+## Project Screenshots
+
+### Dataset Preview
+
+![Dataset Preview](screenshots/excel_preview.png)
+
+
+
+### Sales by Category
+
+![Sales by Category](screenshots/sales_by_category.png)
+
+
+
+### Top Customers by Revenue
+
+![Top Customers](screenshots/top_customers.png)
+
+
+
+### Best Selling Month Analysis
+
+![Best Selling Month](screenshots/best_selling_month.png)
+
+
+### Sales Shift Analysis
+
+![Sales Shift Analysis](screenshots/sales_shift_analysis.png)
+
+---
+
 ## How to Run This Project
 
 1. Create the database in PostgreSQL.
