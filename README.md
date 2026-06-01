@@ -133,7 +133,7 @@ Key questions answered:
 
 ### Dataset Preview
 
-![Dataset Preview](screenshots/excel_preview.png)
+![Dataset Preview](screenshots/dataset_preview.png)
 
 
 
