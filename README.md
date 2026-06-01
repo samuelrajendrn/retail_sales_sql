@@ -131,30 +131,30 @@ Key questions answered:
 
 ## Project Screenshots
 
-### Dataset Preview
+### 1. Dataset Preview
 
 ![Dataset Preview](screenshots/dataset_preview.png)
 
 
 
-### Sales by Category
+### 2. Sales by Category
 
 ![Sales by Category](screenshots/sales_by_category.png)
 
 
 
-### Top Customers by Revenue
+### 3. Top Customers by Revenue
 
 ![Top Customers](screenshots/top_customers.png)
 
 
 
-### Best Selling Month Analysis
+### 4. Best Selling Month Analysis
 
 ![Best Selling Month](screenshots/best_selling_month.png)
 
 
-### Sales Shift Analysis
+### 5. Sales Shift Analysis
 
 ![Sales Shift Analysis](screenshots/sales_shift_analysis.png)
 
